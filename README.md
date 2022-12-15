@@ -20,15 +20,15 @@ You have: 152 credits.
 
 # game over screen
 
-|Bells Ψ| |Cherries φ| |Oranges σ|
+|Bars θ| |Oranges σ| |Bells Ψ|
 
 You won: 0 credits!
-You have: 0 credits.
+You have: -3 credits.
 
 You have fallen into the depths of Hades.
 Game over! 
 
-Number of spins 27
-Your highest score was 352 credits
+Number of spins 72
+Your highest score was 167 credits
 
 Would you like to start again ? Y/N
