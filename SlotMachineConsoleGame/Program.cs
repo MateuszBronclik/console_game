@@ -17,9 +17,9 @@ namespace SlotMachine
         {
             "|Cherries \u03C6|","|Oranges \u03c3|","|Plums \u03d8|","|Bells \u03a8|","|Melons \u03f4|","|Bars \u03b8|"
         };
-        private int credits = 0;
-        private int spins = 0;
-        private int highestScore = 0;
+        private int credits;
+        private int spins;
+        private int highestScore;
         public void Play()
         {
             Random random = new Random();
