@@ -25,7 +25,7 @@ namespace SlotMachine
             Random random = new Random();
             credits = random.Next(10, 101);
 
-            Console.WriteLine($"Welcome to the gates of Olympus Newcomer. Goddess Tyche known also as a Fortuna has awarded you with {credits} credits. \nPress enter to spin the reels " +
+            Console.WriteLine($"Welcome to the gates of Olympus Newcomer. Goddess Tyche known also as a Fortuna has awarded you with {credits} credits. \nPress enter to spin the reels. " +
                 $"\nEach spin costs you 10 credits.\nIf you match 3 symbols you will receive 100 credits.\nIf you match 2 symbols you will receive 5 credits." +
                 $"\nTo finish the game and get to the pantheon of Gods you need to collect 500 points. Good luck!");
 
