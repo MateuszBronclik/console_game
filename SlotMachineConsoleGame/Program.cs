@@ -39,8 +39,9 @@ namespace SlotMachine
                     spins++;
 
                     Console.Clear();
+                    Console.ForegroundColor= ConsoleColor.Yellow;
                     Console.WriteLine($"{firstSymbol} {secondSymbol} {thirdSymbol}");
-
+                    Console.ForegroundColor= ConsoleColor.Gray;
                     int winnings = CalculateWinnings(firstSymbol, secondSymbol, thirdSymbol);
                     Console.WriteLine($"You won: {winnings} credits!");
 
